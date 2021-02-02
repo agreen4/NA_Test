@@ -1,0 +1,13 @@
+---
+title: "R Notebook"
+author: Andrew Greenlee
+output: html_notebook
+---
+
+# Introduction
+
+I have a few bright ideas - let me share them with you...
+
+# Reflection 2/2/2021
+
+Here's another bright idea...
