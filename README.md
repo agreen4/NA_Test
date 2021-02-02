@@ -1,14 +1,16 @@
 # Neighborhood Analysis: Assignments
 
-## **Name:** Your Name Here
+## **Name:** Andrew Greenlee
 
 ## Contents:
+
+Here's the content of my class repository.
 
 | Assignment | Upload Date (latest) | Notes |
 |-|-|-|
 | Grading Contract |  |  |
 | R Learner's Permit |  |  |
-| Class Reflections |  |  |
+| Class Reflections |  2/2/2021 |  |
 | Polished Lab Notebooks |  |  |
 | Final Project Proposal |  |  |
 | Final Project Background |  |  |
